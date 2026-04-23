@@ -1,8 +1,8 @@
 ## Hi, I'm Rodney ! 👋
-- 🔭 I’m currently building a ML model to automate administrative tasks
-- 💻 Currently learning about cloud technologies and finance
+- 🔭 I’m currently building an alert & notification engine for trading
 - 📈 I recently built an educational trading platform to help young people like me learn more about investing and capital markets. Check it out [here](https://siminvestplatform.netlify.app/login)
 - 💡 Fun fact: I can speak 3 languages and I am very good at memorizing flags and capital cities.
+- - 📫 How to reach me: LinkedIn @ Rodney Mbaguta
 
  
 ## Tech Stack
