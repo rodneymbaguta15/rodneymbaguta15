@@ -1,8 +1,8 @@
 ## Hi, I'm Rodney ! 👋
-- 🔭 I’m currently building an alert & notification engine for trading
 - 📈 I recently built an educational trading platform to help young people like me learn more about investing and capital markets. Check it out [here](https://siminvestplatform.netlify.app/login)
-- 💡 Fun fact: I can speak 3 languages and I am very good at memorizing flags and capital cities.
-- - 📫 How to reach me: LinkedIn @ Rodney Mbaguta
+- I’m looking to collaborate on challenging and impactful projects that intersect finance and technology. 
+- 💡 Fun fact: I can speak 3 languages and I know the flag of almost all the countries on earth.
+- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/rodney-mbaguta/) or email (rodney.mbaguta.m@gmail.com)
 
  
 ## Tech Stack
