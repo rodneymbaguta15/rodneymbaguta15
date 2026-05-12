@@ -8,6 +8,7 @@
  
 ## Tech Stack
 ### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,ts,spring,react,postgres,mongodb,aws,docker,git)](https://skillicons.dev)
 
 ![Java](https://camo.githubusercontent.com/023380272dd1bc56194dc6f0a7d2b48360c1f9f66e70ea6c1b81ee60b4b58ea8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
