@@ -8,7 +8,7 @@
  
 ## Tech Stack
 ### Languages 
-[![My Languages](https://skillicons.dev/icons?i=java,python,ts)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)
 
 ### Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react)](https://skillicons.dev)
