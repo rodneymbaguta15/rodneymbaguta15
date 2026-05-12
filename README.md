@@ -7,15 +7,17 @@
 
  
 ## Tech Stack
-### 💻 Languages & Frameworks
+### Languages 
 [![My Languages](https://skillicons.dev/icons?i=java,python,html,css,ts,spring,react)](https://skillicons.dev)
 
+### Frameworks
+[![My Frameworks](https://skillicons.dev/icons?i=spring,nodejs,react)](https://skillicons.dev)
 
+### Databases
+[![My Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
 
-### 💾 Databases & DevOps
-
-[![My Frameworks](https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,git)](https://skillicons.dev)
-
+### Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,git)](https://skillicons.dev)
 
 <!--
 **Djrashhhh/Djrashhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
