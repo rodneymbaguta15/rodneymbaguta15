@@ -1,6 +1,7 @@
 ## Hi, I'm Rodney ! 👋
 - 📈 I recently built an educational trading platform to help young people like me learn more about investing and capital markets. Check it out [here](https://siminvestplatform.netlify.app/login)
-- I’m looking to collaborate on challenging and impactful projects that intersect finance and technology. 
+-  👯 I’m looking to collaborate on challenging and impactful projects that intersect finance and technology.
+-  🌱 I’m very passionate about trading and capital markets.
 - 💡 Fun fact: I can speak 3 languages and I know the flag of almost all the countries on earth.
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/rodney-mbaguta/) or email (rodney.mbaguta.m@gmail.com)
 
